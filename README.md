@@ -4,4 +4,4 @@ My public Unity projects showcasing different gameplay mechanics, systems, and e
 Some images:
 
 Vehicle Controller Prototype:
-![VehicleControllerPrototype](img/vcp/vcp1.png)
+![VehicleControllerPrototype](images/vcp1.png)
