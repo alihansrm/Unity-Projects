@@ -1,7 +1,11 @@
 # Unity Projects
-My public Unity projects showcasing different gameplay mechanics, systems, and experiments.
 
-Some images:
+A collection of my public Unity projects showcasing different gameplay mechanics, systems, and experiments.
 
-Vehicle Controller Prototype:
-![VehicleControllerPrototype](images/vcp1.png)
+## Projects
+
+### Vehicle Controller Prototype
+
+A simple vehicle controller prototype built in Unity, featuring basic driving mechanics such as steering, acceleration, and braking.
+
+![Vehicle Controller Prototype](images/vcp1.png)
