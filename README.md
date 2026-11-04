@@ -1,5 +1,5 @@
 # Unity Projects
- 
+
 A collection of my public Unity projects showcasing different gameplay mechanics, systems and experiments.
 
 ## Projects
